@@ -1,5 +1,3 @@
-$(window).scrollTop(100000);
-
 /* 발견되면 활성화시키는 라이브러리 시작 */
 function ActiveOnVisible__init() {
     $('.active-on-visible').each(function (index, node) {
